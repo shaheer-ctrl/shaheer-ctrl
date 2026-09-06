@@ -76,9 +76,11 @@ Designed and implemented a simulated enterprise Linux environment covering:
 - User and group management
 - Password policies
 - Least-privilege `sudo`
+- Job/Backgroud Management
 - Process and resource monitoring
+- CPU & Memory monitoring
 - `systemd` services
-- `journald` logging
+- `journald` logging & troubleshooting
 - Security governance auditing
 
 ---
