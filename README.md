@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a **Cyber Security student** focused on Linux systems administration, infrastructure security, and cloud security research.
 
@@ -37,7 +37,7 @@ My primary focus is **Linux system administration and security**, followed by **
 
 ---
 
-## ⚙️ Technologies & Skills
+## Technologies & Skills
 
 <div align="center">
 
@@ -55,7 +55,7 @@ My primary focus is **Linux system administration and security**, followed by **
 
 ---
 
-## 🚩 Security Platforms
+## Security Platforms
 
 <div align="center">
 
@@ -69,7 +69,7 @@ My primary focus is **Linux system administration and security**, followed by **
 
 # 🚀 Projects
 
-## 🐧 Enterprise Linux Administration & Security Lab
+## Enterprise Linux Administration & Security Lab
 
 Designed and implemented a simulated enterprise Linux environment covering:
 
@@ -85,7 +85,7 @@ Designed and implemented a simulated enterprise Linux environment covering:
 
 ---
 
-## 🤖 AI-Based Cyber Threat Detection & SOC Dashboard
+## AI-Based Cyber Threat Detection & SOC Dashboard
 
 An AI-driven security monitoring project using an **unsupervised machine learning pipeline with Isolation Forest** to process large-scale security logs and detect behavioral anomalies.
 
@@ -93,7 +93,7 @@ The system integrates **LLMs** to generate clear, human-readable incident report
 
 ---
 
-## 🕵️ SOC Detection & Attack Simulation Lab
+## SOC Detection & Attack Simulation Lab
 
 A practical cybersecurity laboratory designed to simulate real-world attacks in a controlled environment while developing **security detection and analysis capabilities**.
 
@@ -123,7 +123,7 @@ The lab uses **Splunk Enterprise, Sysmon, Windows Event Logs, and the MITRE ATT&
 
 ---
 
-# 🐍 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -133,7 +133,7 @@ The lab uses **Splunk Enterprise, Sysmon, Windows Event Logs, and the MITRE ATT&
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
