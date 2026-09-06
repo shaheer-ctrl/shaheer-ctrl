@@ -28,12 +28,12 @@ My primary focus is **Linux system administration and security**, followed by **
 
 ## 🛡️ Core Focus
 
-- 🐧 **Linux Systems Administration & Security**
-- ☁️ **Cloud Security Research**
-- 🔐 **Infrastructure Security & Hardening**
-- 🧪 **Penetration Testing**
-- 📊 **Monitoring & System Reliability**
-- 🛡️ **Security-focused System Administration**
+- **Linux Systems Administration & Security**
+- **Cloud Security Research**
+- **Infrastructure Security & Hardening**
+- **Penetration Testing**
+- **Monitoring & System Reliability**
+- **Security-focused System Administration**
 
 ---
 
