@@ -22,7 +22,7 @@ I’m a **Cyber Security student** focused on Linux systems administration, infr
 
 My primary focus is **Linux system administration and security**, followed by **cloud security and penetration testing**. I enjoy building secure, reliable environments and understanding how systems can be hardened against real-world threats.
 
-> **Linux Systems & Security Administration → Cloud Security → Penetration Testing**
+> **Linux Systems & Security Administration | Cloud Security | Penetration Testing**
 
 ---
 
