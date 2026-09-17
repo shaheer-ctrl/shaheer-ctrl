@@ -122,17 +122,6 @@ The lab uses **Splunk Enterprise, Sysmon, Windows Event Logs, and the MITRE ATT&
 </div>
 
 ---
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shaheer-ctrl/shaheer-ctrl/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 ## Certifications
 
 <div align="center">
