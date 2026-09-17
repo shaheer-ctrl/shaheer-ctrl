@@ -101,18 +101,6 @@ The lab uses **Splunk Enterprise, Sysmon, Windows Event Logs, and the MITRE ATT&
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shaheer-ctrl&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer-ctrl&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
